@@ -1,4 +1,4 @@
-# Welcome to GUI-lite
+# GUI-liteへようこそ！
 <p align="center">
     <img src="documents/logo.png" alt="Logo"/>
 </p>
@@ -8,15 +8,15 @@
   <img src="https://img.shields.io/badge/architecture-amd64%20%7C%20arm%20%7C%20arm64-blue.svg">
   <img src="https://img.shields.io/badge/license-Apache%202-blue.svg">
 </p>
-<p align="center">The smallest header-only GUI library (4 KLOC) for all platforms.</p>
+<p align="center">小さくてマルチプラットフォームなシングルヘッダGUIライブラリ</p>
 <p align="center">
     <img src="documents/WhyGuiLite.png" alt="Why GuiLite"/>
 </p>
 
 - [中文](README_zh.md)
 
-## Lightweight
-- ✂️Small: 4,000+ lines of C++ code, zero dependency, header-only(GuiLite.h)
+## 軽量
+- ✂️小規模: 4,000+ lines of C++ code, zero dependency, header-only(GuiLite.h)
 - ⚡Fast: High Rendering performance, even work on MCU
 - 👫🏻Compatible: Work smoothly with 3rd party frameworks(Qt/MFC/Winform/Cocoa/Web)
 - ⚙️️Hardware Minimum Requirements:
